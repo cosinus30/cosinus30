@@ -5,7 +5,7 @@
 
 - I’m currently learning **Nest.js**
 
-- You can check my portfolio too! [https://cosinus30.github.io/portfolio](https://cosinus30.github.io/portfolio)
+- You can check my portfolio too: [From here!](https://www.yunuskeremturk.com)
 
 - You can email me anytime **yunuskeremturk@gmail.com**
 
